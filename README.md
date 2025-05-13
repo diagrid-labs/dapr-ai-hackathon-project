@@ -1,4 +1,4 @@
-# Dapr AI Hackathon - Project Submission Template
+ # Dapr AI Hackathon - Project Submission Template
 
 Welcome to the official project submission repository template for the **Dapr AI Hackathon x Diagrid**! This GitHub template repository is designed to help you structure and submit your hackathon project efficiently.
 
@@ -13,7 +13,7 @@ This repository is set up as a GitHub template that you can use as a starting po
 
 ## About the Hackathon
 
-The Dapr AI Hackathon (May 16 - June 27, 2025) is a global challenge to build intelligent, resilient, and scalable AI applications using the power of Dapr Workflows and Dapr Agents. Whether you're orchestrating autonomous agents, designing durable AI pipelines, or ensuring responsible AI behavior, this hackathon is your opportunity to push the boundaries of distributed intelligence. To learn more, visit: [https://github.com/diagrid-labs/dapr-ai-hackathon](https://github.com/diagrid-labs/dapr-ai-hackathon]).
+The Dapr AI Hackathon (May 16 - June 27, 2025) is a global challenge to build intelligent, resilient, and scalable AI applications using the power of Dapr Workflows and Dapr Agents. Whether you're orchestrating autonomous agents, designing durable AI pipelines, or ensuring responsible AI behavior, this hackathon is your opportunity to push the boundaries of distributed intelligence. To learn more, visit: [https://github.com/diagrid-labs/dapr-ai-hackathon](https://github.com/diagrid-labs/dapr-ai-hackathon).
 
 ## Getting Started with This Template
 
