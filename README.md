@@ -28,7 +28,7 @@ To use this template for your Dapr AI Hackathon submission:
 1. **Provide Hackathon organizer's access**: Add @kendallroden on GitHub to access your project template
 1. **Update this README.md**: Replace the content in the "Project Details" section with your project information as you iterate
 1. **Add your project code**: Implement your hackathon project in this repository
-1. **Submit your project**: Open an issue in the [official Dapr AI Hackathon repository](https://github.com/diagrid-labs/dapr-ai-hackathon) using the Project Submission template and include a link to your private repository
+1. **Submit your project**: Open an issue in the [official Dapr AI Hackathon repository](https://github.com/diagrid-labs/dapr-ai-hackathon/issues/new/choose) using the Project Submission template and include a link to your private repository
 
 ## Project Details
 
