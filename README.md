@@ -53,7 +53,7 @@ Choose one of the following solution categories:
 
 ### 💻 Technology Used
 
-- **Platform**: [Dapr OSS, Catalyst, or both]
+- **Platform**: [Dapr OSS, Diagrid, or both]
 - **Dapr APIs**: [List the Dapr APIs you leveraged (Workflow API, Pub/Sub, State, etc.)]
 - **Programming Languages**: [List the languages used]
 - **Additional Technologies**: [List any other significant technologies, frameworks, or tools used]
@@ -71,7 +71,7 @@ Choose one of the following solution categories:
 
 ### 🎬 Demo
 
-[Provide instructions on how to access your demo video (3-5 minutes) showing the working application, the workflow or agent behavior, and how Dapr and/or Catalyst was used]
+[Provide instructions on how to access your demo video (3-5 minutes) showing the working application, the workflow or agent behavior, and how Dapr and/or Diagrid was used]
 
 ## Installation & Deployment Instructions
 
